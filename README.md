@@ -74,7 +74,7 @@ $ flutter run
 ## Contact Me 📞
 **Kuntal Gain**
 
-- Gmail: [@saimanoj2826](mailto:Kuntalgain147@gmail.com)
-- Twitter: [@saimanoj2826](https://twitter.com/KuntalSDE)
-- Github: [@SaiManojBotchu](https://github.com/KuntalGain)
-- LinkedIn: [@SaiManojBotchu](https://www.linkedin.com/in/kuntal-gain-3385a9229/)
+- Gmail: [@KuntalGain](mailto:Kuntalgain147@gmail.com)
+- Twitter: [@KuntalGain](https://twitter.com/KuntalSDE)
+- Github: [@KuntalGain](https://github.com/KuntalGain)
+- LinkedIn: [@KuntalGain](https://www.linkedin.com/in/kuntal-gain-3385a9229/)

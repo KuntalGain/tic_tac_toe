@@ -1,4 +1,4 @@
-# tic_tac_toe
+# Tic Tac Toe
 
 A simple mobile game built with `Flutter`
 

@@ -15,7 +15,6 @@ Don't forget to give a star if you like this project 😅😊
 4. [Getting Started](#getting-started-)
 5. [Features](#features-)
 6. [Technologies](#technologies-)
-7. [Dependencies](#dependencies-)
 8. [Contact Me](#contact-me-)
 
 ## General Info 📝
@@ -72,4 +71,10 @@ $ flutter run
 [![Flutter](https://img.shields.io/badge/Flutter-v3.3.4-1.svg)](https://flutter.dev/)   
 [![Dart](https://img.shields.io/badge/Dart-v2.18.4-1.svg)](https://dart.dev/)
 
-## Dependencies 📚
+## Contact Me 📞
+**Kuntal Gain**
+
+- Gmail: [@saimanoj2826](mailto:Kuntalgain147@gmail.com)
+- Twitter: [@saimanoj2826](https://twitter.com/KuntalSDE)
+- Github: [@SaiManojBotchu](https://github.com/KuntalGain)
+- LinkedIn: [@SaiManojBotchu](https://www.linkedin.com/in/kuntal-gain-3385a9229/)

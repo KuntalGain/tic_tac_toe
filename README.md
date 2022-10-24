@@ -1,16 +1,27 @@
 # tic_tac_toe
 
-A new Flutter project.
+A simple mobile game built with `Flutter`
 
-## Getting Started
+[![TicTacToe](https://img.shields.io/badge/TicTacToe-🎮-1EAEDB.svg)](https://github.com/SaiManojBotchu/TicTacToe)
 
-This project is a starting point for a Flutter application.
+Don't forget to give a star if you like this project 😅😊
 
-A few resources to get you started if this is your first Flutter project:
+> **Note**: This repository is still under development and I will continue to add more features to it! 🙃
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Table of Contents 📜
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. [General Info](#general-info-)
+3. [Screenshots](#screenshots-)
+4. [Getting Started](#getting-started-)
+5. [Features](#features-)
+6. [Technologies](#technologies-)
+7. [Dependencies](#dependencies-)
+8. [Contact Me](#contact-me-)
+
+## General Info 📝
+
+The purpose of this project was to practice Flutter development by creating simple mobile game.
+
+## Screenshots 📷
+
+
